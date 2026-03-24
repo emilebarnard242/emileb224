@@ -1,4 +1,4 @@
-# emileb224
+# emileb242
 # Hi, I'm Emile 👋
 
 Aspiring SOC Analyst | CompTIA Security+ Certified | Studying for SPLK-1001
