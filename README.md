@@ -1,7 +1,7 @@
 # emileb242
 # Hi, I'm Emile 👋
 
-Aspiring SOC Analyst | CompTIA Security+ Certified | Studying for SPLK-1001
+Aspiring SOC Analyst | CompTIA Security+ Certified | Splunk Core Certified User | Studying for BTL1 
 
 I'm building hands-on cybersecurity experience through labs, homelabs, and real projects.
 
