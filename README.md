@@ -23,8 +23,10 @@ I'm building hands-on cybersecurity experience through labs, homelabs, and real 
 
 ## 📂 Repositories
 
-- [splunk-lab-portfolio](https://github.com/emilebarnard242/splunk-lab-portfolio) — Hands-on Splunk labs covering SPL querying, alerting, and dashboard building using BOTSv1 and linux_secure, progressing through the full Cyber Kill Chain
-- [pi-vpn-pihole-homelab](https://github.com/emilebarnard242/pi-vpn-pihole-homelab) — Raspberry Pi 5 home lab running WireGuard VPN via PiVPN and Pi-hole v6 DNS filtering with DNSSEC and DNS sinkholing
+- [splunk-lab-portfolio](https://github.com/emilebarnard242/splunk-lab-portfolio) -Hands-on Splunk labs covering SPL querying, alerting, and dashboard building using BOTSv1 and linux_secure, progressing through the full Cyber Kill Chain
+- [pi-vpn-pihole-homelab](https://github.com/emilebarnard242/pi-vpn-pihole-homelab) -Raspberry Pi 5 home lab running WireGuard VPN via PiVPN and Pi-hole v6 DNS filtering with DNSSEC and DNS sinkholing
+- [pentest-metasploitable2](https://github.com/emilebarnard242/pentest-metasploitable2). -Documented penetration testing lab using Kali Linux and Metasploitable2.
+- [btl1-easter-prep-2026](https://github.com/emilebarnard242/btl1-easter-prep-2026) - Practical lab work completed across phishing analysis, incident response, network analysis, digital forensics, and threat intelligence.
 
 ## 📫 Contact
 
